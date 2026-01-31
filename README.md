@@ -1,5 +1,5 @@
-Webshop
-En komplett konsolbaserad webshop byggd i .NET med Entity Framework Core och Azure SQL.
+Webbshoppen
+Är en komplett konsolbaserad webshop byggd i .NET med Entity Framework Core och Azure SQL.
 Projektet visar hela flödet från produkter till ordrar, inklusive relationer, validering och statistik.
 
 ✨ Funktioner
